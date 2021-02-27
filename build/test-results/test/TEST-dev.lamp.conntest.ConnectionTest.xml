@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.lamp.conntest.ConnectionTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-27T17:36:20" hostname="MORAEDIFEX" time="2.279">
+  <properties/>
+  <testcase name="generates_connection()" classname="dev.lamp.conntest.ConnectionTest" time="2.279"/>
+  <system-out><![CDATA[org.postgresql.jdbc.PgConnection@5a7f6d4a
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

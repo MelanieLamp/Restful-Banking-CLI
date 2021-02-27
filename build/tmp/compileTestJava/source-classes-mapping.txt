@@ -1,0 +1,10 @@
+dev/lamp/conntest/ConnectionTest.java
+ dev.lamp.conntest.ConnectionTest
+dev/lamp/servicetests/ClientServiceTests.java
+ dev.lamp.servicetests.ClientServiceTests
+dev/lamp/daotests/ClientDaoTests.java
+ dev.lamp.daotests.ClientDaoTests
+dev/lamp/daotests/AccountDaoTest.java
+ dev.lamp.daotests.AccountDaoTest
+dev/lamp/servicetests/AccountServiceTests.java
+ dev.lamp.servicetests.AccountServiceTests
